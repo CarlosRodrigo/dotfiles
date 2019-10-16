@@ -1,2 +1,5 @@
 # Dotfiles
-My personal dotfiles.
+
+## My personal dotfiles.
+
+repo with personal dotfiles to be synced across devices.
